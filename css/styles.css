@@ -1,0 +1,23 @@
+.body{
+    background-color: rgb(40, 173, 168) !important;
+    padding-left: 10% !important;
+    padding-right: 10% !important;
+}
+.svgCarrito{
+    display: grid;
+    grid-column-start: 5;
+}
+.container{
+    text-align: center !important;
+    text-decoration: underline !important;
+    font-family:Georgia !important;
+    background-color: rgb(133, 125, 39) !important;
+}
+
+.list{
+    color: rgb(10, 9, 8) !important;
+}
+.pie{ 
+    text-align: center !important;
+    font-family: sans-serif !important;
+}
